@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Image Compressor</string>
+    <string name="compressor_title">Image Compressor &amp; Converter</string>
+    <string name="compressor_subtitle">Compress photos up to 90% without losing visual quality</string>
+    <string name="select_image">Choose Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="high_compression">High Compression</string>
+    <string name="high_compression_desc">Smallest size (~80–90% reduction)</string>
+    <string name="standard_compression">Standard</string>
+    <string name="standard_compression_desc">Balanced quality &amp; size (~60% reduction)</string>
+    <string name="low_compression">Low Compression</string>
+    <string name="low_compression_desc">Best quality (~30% reduction)</string>
+    <string name="custom_quality">Custom Percentage</string>
+    <string name="original_size">Original Size</string>
+    <string name="compressed_size">Compressed Size</string>
+    <string name="space_saved">Space Saved</string>
+    <string name="download_button">Watch Ad &amp; Download</string>
+    <string name="share_button">Share Image</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="ad_sponsored">Sponsored Ad</string>
+</resources>

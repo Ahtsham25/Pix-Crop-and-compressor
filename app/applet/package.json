@@ -1,0 +1,10 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun run server.ts",
+    "build": "bun run build.ts",
+    "start": "bun run server.ts"
+  }
+}

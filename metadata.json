@@ -1,0 +1,6 @@
+{
+  "name": "Image Compressor",
+  "description": "High-speed image compressor and converter with customizable quality, format conversion (JPEG, PNG, WEBP), 10-item local history for re-downloads and sharing, ad monetization flow, and Play Store policy pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
